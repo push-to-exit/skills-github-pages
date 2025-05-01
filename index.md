@@ -1,6 +1,3 @@
-
-# welcome
-
 a small page in markdown
 
 stuff i made/like:
